@@ -1,2 +1,2 @@
-this is a confidential project
-please donot share it with anyone
+this is no more confidential 
+this is a open-source project
